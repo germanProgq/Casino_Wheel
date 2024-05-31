@@ -34,7 +34,7 @@ To set up Casino Website locally, follow these steps:
 
 2. **Navigate to the Directory**:
    ```
-   cd casino-website
+   cd casino-wheel
    ```
 
 3. **Open `index.html` in a Web Browser**:
